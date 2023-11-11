@@ -366,7 +366,7 @@ export default function Home() {
                   the project's functionality and efficiency.
                 </p>
                 <a className="flex justify-center mx-16 md:mx-44 lg:mx-32 py-1 bg-gray-50 hover:bg-gray-900 hover:text-yellow-300 border hover:border-yellow-300 border-2 text-black text-sm font-semibold" 
-                  href="https://eira.erovoutika.ph/" target="_blank">Visit here
+                  href="https://headturnershelmet.com/" target="_blank">Visit here
                 </a>
               </div>
               <div className="h-2 w-full bg-gradient-to-l via-yellow-300 group-hover:blur-xl blur-2xl m-auto rounded transition-all absolute bottom-0"></div>
