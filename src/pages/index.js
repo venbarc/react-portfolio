@@ -35,7 +35,7 @@ import tailwind from '../../public/tailwind.png';
 
 import { useState, useEffect } from "react";
 
-const PDF_FILE_URL = 'http://localhost:3000/Barcebal_Benedict_Obre.pdf';
+const PDF_FILE_URL = 'https://react-portfolio-gamma-jet.vercel.app/Barcebal_Benedict_Obre.pdf';
 
 export default function Home() {
   const [darkMode, setDarkMode] = useState(false);
