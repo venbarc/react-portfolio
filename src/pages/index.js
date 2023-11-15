@@ -171,7 +171,7 @@ export default function Home() {
               </div>
               <p className="py-2 text-gray-200 dark:text-gray-950">
                 During my second year of college in 2018, I achieved mastery in HTML and CSS. 
-                Over the course of nearly five years, I have applied this expertise to proficiently 
+                Over the course of nearly four years, I have applied this expertise to proficiently 
                 construct and design websites.
               </p>
             </div>
