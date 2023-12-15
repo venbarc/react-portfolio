@@ -9,7 +9,7 @@ import {
 import Image from "next/image";
 import Headroom from 'react-headroom';
 
-import benpic from '../../public/benpic.jpg';
+import benpic from '../../public/benpic1.jpg';
 import web1 from '../../public/web1.png';
 import web2 from '../../public/web2.png';
 import web3 from '../../public/web3.png';
