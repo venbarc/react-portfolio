@@ -15,6 +15,7 @@ import web2 from '../../public/web2.png';
 import web3 from '../../public/web3.png';
 import web4 from '../../public/web4.png';
 import web5 from '../../public/web5.png';
+import web6 from '../../public/web6.png';
 
 import java from '../../public/java.png';
 import csharp from '../../public/csharp.png';
@@ -494,6 +495,46 @@ export default function Home() {
                 <div className="text-center text-gray-100 dark:text-gray-950 text-sm font-semibold" 
                   >In progress
                 </div>
+              </div>
+              <div className="h-2 w-full bg-gradient-to-l via-yellow-300 group-hover:blur-xl blur-2xl m-auto rounded transition-all absolute bottom-0"></div>
+              <div className="h-0.5 group-hover:w-full bg-gradient-to-l  via-yellow-750 group-hover:via-yellow-300 w-[70%] m-auto rounded transition-all"></div>
+            </div>
+            {/* card 6  */}
+            <div class="card mx-auto text-gray-300 hover:brightness-90 transition-all group bg-gray-900 dark:bg-gray-200 hover:from-gray-800 hover:to-gray-950  m-4 rounded-lg overflow-hidden relative">
+              <div class="p-8">
+                <h1 class="font-burtons text-lg text-yellow-300 dark:text-gray-950 my-5">
+                  Nirvam (Gym Instructor) Website
+                </h1>
+                <Image src={web6} />
+                <div className="flex">
+                  <div className="relative mt-5 mx-auto bg-white
+                    rounded-full w-12 h-12 overflow-hidden md:h-14 md:w-14">
+                    <Image src={html} className="pop-image" layout="fill" objectFit="cover"/>
+                  </div>
+                  <div className="relative mt-5 mx-auto bg-white
+                    rounded-full w-12 h-12 overflow-hidden md:h-14 md:w-14">
+                    <Image src={css} className="pop-image" layout="fill" objectFit="cover"/>
+                  </div>
+                  <div className="relative mt-5 mx-auto bg-white
+                    rounded-full w-12 h-12 overflow-hidden md:h-14 md:w-14">
+                    <Image src={js} className="pop-image" layout="fill" objectFit="cover"/>
+                  </div>
+                  <div className="relative mt-5 mx-auto bg-white
+                    rounded-full w-12 h-12 overflow-hidden md:h-14 md:w-14">
+                    <Image src={tailwind} className="pop-image" layout="fill" objectFit="cover"/>
+                  </div>
+                  <div className="relative mt-5 mx-auto bg-white
+                    rounded-full w-12 h-12 overflow-hidden md:h-14 md:w-14">
+                    <Image src={react} className="pop-image" layout="fill" objectFit="cover"/>
+                  </div>
+                </div>
+                <p class="text-gray-300 dark:text-gray-950 my-5">
+                  Here is a website for my personal gym instructor who guides me through my workouts. 
+                  I created this in February 2024 to help my instructor gain more clients
+                </p>
+                <a className="flex justify-center mx-16 md:mx-44 lg:mx-32 py-1 bg-gray-50 hover:bg-gray-900 hover:text-yellow-300 hover:border-yellow-300 border-2 text-black text-sm font-semibold" 
+                  href="https://nivram.vercel.app/" target="_blank">Visit here
+                </a>
               </div>
               <div className="h-2 w-full bg-gradient-to-l via-yellow-300 group-hover:blur-xl blur-2xl m-auto rounded transition-all absolute bottom-0"></div>
               <div className="h-0.5 group-hover:w-full bg-gradient-to-l  via-yellow-750 group-hover:via-yellow-300 w-[70%] m-auto rounded transition-all"></div>
