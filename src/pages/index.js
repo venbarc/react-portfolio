@@ -145,9 +145,11 @@ export default function Home() {
           <span className="text-yellow-300 dark:text-gray-950 dark:font-bold"> JavaScript </span> for
           enhanced interactivity. Subsequently, my trajectory pivoted towards
           <span className="text-yellow-300 dark:text-gray-950 dark:font-bold"> PHP and Laravel </span>
-          to engineer resilient web applications. Presently, my journey persists with a commitment to augmenting my proficiency, wherein I harness
+          to engineer resilient web applications. 
+          {/* Presently, my journey persists with a commitment to augmenting my proficiency, wherein I harness
           <span className="text-yellow-300 dark:text-gray-950 dark:font-bold"> React and Next.js </span>
-          to fashion dynamic and responsive web experiences. Additionally, I strategically employ the
+          to fashion dynamic and responsive web experiences.  */}
+          Additionally, I strategically employ the
           <span className="text-yellow-300 dark:text-gray-950 dark:font-bold"> Tailwind CSS </span>
           framework to expedite the development of swift and responsive web applications, ensuring the delivery of superlative user experiences. This iterative process underscores my dedication to remaining at the forefront of technological advancements in the ever-evolving landscape of web development.
             </p>
@@ -196,7 +198,7 @@ export default function Home() {
               </p>
             </div>
             {/* Card 3 */}
-            <div className="transform transition-transform ease-in-out hover:scale-105 text-justify
+            {/* <div className="transform transition-transform ease-in-out hover:scale-105 text-justify
              bg-gray-900 dark:bg-gray-200 p-10 rounded-xl" style={{ boxShadow: "6px 6px 6px 6px rgba(255, 255, 0, 0.1), 0 2px 4px -1px rgba(255, 255, 0, 0.06)" }}>
               <h3 className="text-lg text-yellow-300 dark:text-gray-950 mb-8 font-burtons pt-4 pb-2">
                 React and Next.js
@@ -213,7 +215,7 @@ export default function Home() {
                 dedicated to honing my skills and achieving mastery in leveraging these 
                 frameworks to elevate my proficiency in front-end development.
               </p>
-            </div>
+            </div> */}
             {/* Card 4 */}
             <div className="transform transition-transform ease-in-out hover:scale-105 text-justify
              bg-gray-900 dark:bg-gray-200 p-10 rounded-xl" style={{ boxShadow: "6px 6px 6px 6px rgba(255, 255, 0, 0.1), 0 2px 4px -1px rgba(255, 255, 0, 0.06)" }}>
