@@ -50,6 +50,7 @@ export default function Home() {
     aTag.click();
     aTag.remove();
   }
+  
   return (
     <div className={darkMode ? "dark" : ""}>
       <Head>
